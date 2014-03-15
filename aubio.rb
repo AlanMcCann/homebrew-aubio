@@ -3,7 +3,7 @@ require 'formula'
 class Aubio < Formula
   homepage 'http://aubio.org/'
   url 'http://aubio.org/pub/aubio-0.4.1.tar.bz2'
-  sha1 '8ef7ccbf18a4fa6db712a9192acafc9c8d080978'
+  sha1 '338ec9f633e82c371a370b9727d6f0b86b0ba376'
 
   depends_on :macos => :lion
   depends_on :python
