@@ -7,6 +7,8 @@ contains formulae for installing [aubio](http://aubio.org/download).
 Sample usage:
 
 ```
-brew tap rabialam/aubio
+brew tap alanmccann/aubio
 brew install -v aubio
 ```
+
+Credit to rabialam for original version
